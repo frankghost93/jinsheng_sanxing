@@ -1,1 +1,1 @@
-{"ads":"1.0","push":"https://www.baidu.com","app_name":"jinsheng"}
+{"ads":"10","push":"https://www.baidu.com","app_name":"jinsheng"}
